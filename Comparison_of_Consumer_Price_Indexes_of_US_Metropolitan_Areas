@@ -57,7 +57,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "pip install -r requirements.txt && jupyter-book build Comparison_of_Consumer_Price_Indexes_of_US_Metropolitan_Areas/."
+    "pip install -r requirements.txt && jupyter-book build Portfolio/."
    ]
   },
   {
