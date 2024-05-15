@@ -57,7 +57,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "pip install -r requirements.txt && jb build ."
+    "pip install -r requirements.txt && jupyter-book toc from-project . && jupyter-book build ."
    ]
   },
   {
